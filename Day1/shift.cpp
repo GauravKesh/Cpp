@@ -54,7 +54,7 @@ int main()
             so
                 b = 2/(2^(2))= 2/4 = 0
                 if we'lll solve mathematically we'll get 0.5 but we'll get 0 as by default as a integer.
-                0 because it'll give integer value so it'll ignore the numbers after decimal place
+                0 because it'll give integer value so it'll ignore the numbers at decimal place
 
 
 
