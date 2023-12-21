@@ -2,6 +2,19 @@
 using namespace std;
 int main()
 {
+    int a = 5, b = 5;
+
+    // left shift
+    a = a << 3; // left shift
+    cout << a;  // output for left shift
+
+    // right shift
+    b = b >> 3; // right shift
+    cout << "\n"<< a ;  // output for right shift
+
+
+    ///// EXPLANATION \\\\\
+
 
 
         /*
@@ -24,16 +37,7 @@ int main()
         */
        //code**
 
-    int a = 5, b = 5;
-
-    // left shift
-    a = a << 3; // left shift
-    cout << a;  // output for left shift
-
-    // right shift
-    b = b >> 3; // right shift
-    cout << "\n"<< a ;  // output for right shift
-
+    
     
         /*
         // right shift >>
