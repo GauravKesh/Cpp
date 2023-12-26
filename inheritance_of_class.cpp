@@ -30,7 +30,7 @@ int main(){
     Student u1;
     u1.area="america";
     u1.data();
-    cout<<u1.area<<"\t"<<u1.uniname;
+    cout<<"\t"<<u1.area<<"\t"<<u1.uniname;
 
     return 0;
 }
