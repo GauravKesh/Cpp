@@ -12,6 +12,8 @@ using namespace std;
             • virtual functions
             Function Overloading → Recall !!!
 
+        *************************************************************
+
                 It is compile-time (static) polymorphism because the compiler determines
                 which function to call based on the number and types of arguments passed
                 during a function call.
@@ -20,9 +22,9 @@ using namespace std;
                 • Different number of parameters (e.g., two in one function, three in another)
                 • Different sequence of parameters (e.g., int and double vs double and int)
 
-                ***************************************************
-                
-            Virtual functions:
+        ************************************************************
+
+        Virtual functions:
                 • It is often associated with inheritance and class hierarchies
                 • Dynamic polymorphism → the actual function called at runtime depends on the type
                 of the object
